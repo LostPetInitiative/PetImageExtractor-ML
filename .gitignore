@@ -1,0 +1,6 @@
+venv
+data
+// ---alpheus-managed-start---
+**/*.hash
+.alpheus/storage
+// ---alpheus-managed-end---
